@@ -11,7 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [GirHub](https://your-solution-url.com)
+- Solution URL: [GirHub](https://github.com/JoelJohs/frontend-mentor_product-preview-card-component)
 - Live Site URL: [GitHub Pages](https://your-live-site-url.com)
 
 ## My process
