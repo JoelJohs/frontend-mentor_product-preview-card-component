@@ -114,3 +114,8 @@ h1 {
 .add-to-cart-button:hover {
   background-color: hsl(158, 36%, 27%);
 }
+
+.perfume{
+  text-transform: uppercase
+  letter-spacing: 10px;
+}
